@@ -12,7 +12,7 @@ import javax.swing.event.*;
 
 public class StudRec extends ViewElements
 {
-  //main
+  //main Class
   public static void main(String[] args){
     System.out.println("Loading...");
     try {
